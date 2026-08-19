@@ -44,3 +44,4 @@ echo -e "AIRFLOW_UID=$(id -u)" > .env
 # Step 5 - Run the job through Airflow UI
 
 - In the http://localhost:8080/, after logging in, in the Dags section, if the DAG is already created inside the dags folder, it’ll be possible to run the DAG inside the Airflow UI
+![alt text](image.png)
